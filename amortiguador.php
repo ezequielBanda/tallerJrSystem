@@ -6,7 +6,7 @@
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-        <meta name="keyboard" content="Catalogo taller junior 3">
+        <meta name="keyboard" content="Catalogo taller junior 4">
         <title>Taller Junior</title>
 
         <script type="text/javascript">
