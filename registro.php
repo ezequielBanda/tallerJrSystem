@@ -99,7 +99,7 @@
         <div id="content-wrapper">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Registro</h1>
+                    <h1>Registro aqui estoy Edgar</h1>
                     <div class="col-xs-9">
                         <div class="main-box">
                             <div class="main-box-body clearfix">
