@@ -102,7 +102,7 @@
 <<<<<<< HEAD
                     <h1>Registro aqui toy</h1>
 =======
-                    <h1>Registro aqui estoy Edgar</h1>
+                    <h1>Registro aqui estoy Ed con el Esquibi</h1>
 >>>>>>> inEdgar/master
                     <div class="col-xs-9">
                         <div class="main-box">
