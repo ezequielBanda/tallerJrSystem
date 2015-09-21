@@ -99,7 +99,11 @@
         <div id="content-wrapper">
             <div class="row">
                 <div class="col-lg-12">
+<<<<<<< HEAD
                     <h1>Registro aqui toy</h1>
+=======
+                    <h1>Registro aqui estoy Edgar</h1>
+>>>>>>> inEdgar/master
                     <div class="col-xs-9">
                         <div class="main-box">
                             <div class="main-box-body clearfix">
